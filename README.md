@@ -44,10 +44,6 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-<a href="https://www.buymeacoffee.com/torbenf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="174"></a>
-
----
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=torbenfeldthusen&theme=dark&background=000000)](https://git.io/streak-stats)
 
