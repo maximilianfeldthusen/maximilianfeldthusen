@@ -2,7 +2,7 @@
 
 Hey everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m maximilian feldthusen a Reverse Engineer, graduated from the Engineering College in Copenhagen, specializing in Reverse Engineering and Malware Analysis.
 I have been in the cybersecurity industry for more than two decades.
-I use Programming Languages like C/C++, Rust and Assembly, etc..</p>
+</p>
 
   
 ---
