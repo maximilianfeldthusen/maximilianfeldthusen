@@ -1,6 +1,6 @@
 # maximilianfeldthusen
 
-Hey everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m maximilian feldthusen a Reverse Engineer, graduated from the Engineering College in Copenhagen, specializing in Reverse Engineering and Malware Analysis.
+Hey everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m maximilian feldthusen a Cybersecurity Consultant, graduated from the Engineering College in Copenhagen, specializing in Reverse Engineering and Malware Analysis.
 I have been in the cybersecurity industry for more than two decades.
 </p>
 
