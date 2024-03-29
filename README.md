@@ -7,7 +7,7 @@ I have been in the cybersecurity industry for more than two decades.
   
 ---
 
-🧰 Toolbox
+
 
 ---
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
 
 
-- :telescope:  Working with Reverse Engineering, Static Code Analysis, Malware Analysis etc.
+- :telescope:  Working with Reverse Engineering, Static and Dynamic Code Analysis etc.
 
 - ⚡ I audit source code and find vulnerabilities in projects!.
 
