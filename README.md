@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=konfeldt&style=flat-square&color=blue" alt=""/>
 
-I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
+I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
 
 
 - :telescope:  Working with Reverse Engineering, Static and Dynamic Code Analysis etc.
