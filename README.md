@@ -1,6 +1,6 @@
 # maximilianfeldthusen
 
-Hey everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m Maximilian Feldthusen, a Security Analyst & Developer, graduated from the Engineering College in Copenhagen, specializing in Programming with languages like C/C++ and Assembly.
+Hey everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Maximilian Feldthusen, a Security Analyst & Developer, graduated from the Engineering College in Copenhagen, specializing in Programming with languages like C/C++ and Assembly.
 I have been in the cybersecurity industry for more than two decades.
 </p>
 
