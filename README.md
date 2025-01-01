@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
 
 
-- :telescope:  Working with Security Analysis including Static and Dynamic Code Analysis etc.
+- :telescope:  Working with AI enhanced security solutions.
 
 - ⚡ I audit source code and find vulnerabilities in projects!.
 
