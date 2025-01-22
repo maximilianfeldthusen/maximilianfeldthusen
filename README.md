@@ -28,10 +28,14 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=konfeldt&style=flat-square&color=blue" alt=""/>
 
-I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
+Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
 
 
-- :telescope:  Working with AI enhanced security solutions.
+- :telescope:   🌟 What I Do
+
+C/C++ Development
+I specialize in system programming, embedded systems, and performance-critical applications using C and C++. I enjoy tackling complex problems and optimizing code for efficiency and reliability. My projects often involve low-level programming, where I can leverage the power of these languages.
+
 
 - ⚡ I audit source code and find vulnerabilities in projects!.
 
