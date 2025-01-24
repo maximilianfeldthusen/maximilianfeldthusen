@@ -1,5 +1,4 @@
-# maximilian
-# feldthusen
+maximilianfeldthusen
 
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maximilian Feldthusen a passionate software developer with a strong focus on C/C++, cybersecurity, and artificial intelligence. With a background in computer science and a keen interest in securing systems and developing intelligent applications, I thrive on tackling complex challenges and building robust solutions.
 
