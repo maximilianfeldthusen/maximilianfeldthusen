@@ -54,7 +54,7 @@ I implement source code and find vulnerabilities in projects!.
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Posts Github](https://github.com/maximilianfeldthusen/blog/)
+- [Posts Github](https://maximilianfeldthusen.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
 
