@@ -50,7 +50,7 @@ I implement source code and find vulnerabilities in projects!.
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Posts](https://dev.to/maximilianfeldthusen/)
+- [My Posts Dev.to](https://dev.to/maximilianfeldthusen/)
 <!-- BLOG-POST-LIST:END -->
 
 
