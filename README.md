@@ -40,7 +40,7 @@ I implement source code and find vulnerabilities in projects!.
 
 
 
-
+---
 
 - :mailbox:How to reach me:   <a href="mailto:info.ddewc@slmail.me"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
 
