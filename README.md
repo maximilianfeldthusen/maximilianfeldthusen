@@ -33,9 +33,9 @@ Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  🌟 What I Do
  
 C/C++ Development
-I specialize in system programming, embedded systems, and performance-critical applications using C and C++. I enjoy tackling complex problems and optimizing code for efficiency and reliability. My projects often involve low-level programming, where I can leverage the power of these languages.
-
-🌟 I implement source code and find vulnerabilities in projects!.
+I specialize in system programming, embedded systems, and performance-critical applications using C and C++. 
+I enjoy tackling complex problems and optimizing code for efficiency and reliability. My projects often involve low-level programming, where I can leverage the power of these languages.
+I implement source code and find vulnerabilities in projects!.
 
 
 
