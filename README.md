@@ -1,6 +1,6 @@
 Maximilian Feldthusen🔭
 
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maximilian Feldthusen  passionate advocate for innovative software security, I specialize in embedded C/C++ security programming, where I design and implement robust security solutions to protect critical systems. With a strong foundation in both programming and cybersecurity, I leverage the power of artificial intelligence to enhance security measures and develop cutting-edge solutions that address the evolving threat landscape..
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maximilian Feldthusen  passionate advocate for innovative software security, I specialize in C/C++ security programming, where I design and implement robust security solutions to protect critical systems. With a strong foundation in both programming and cybersecurity, I leverage the power of artificial intelligence to enhance security measures and develop cutting-edge solutions that address the evolving threat landscape..
 
 </p>
 
