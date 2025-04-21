@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=konfeldt&style=flat-square&color=blue" alt=""/>
 
-Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from DK.
-
  🌟 What I Do
  
 My experience spans integrating machine learning algorithms into embedded systems, and optimizing computational workflows for maximum efficiency. I am committed to continuous learning and innovation, always exploring new ways to harness AI technologies to create impactful solutions.
