@@ -1,6 +1,9 @@
 Maximilian Feldthusen🔭
 
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maximilian Feldthusen  passionate advocate for innovative software security, I specialize in C/C++ security programming, where I design and implement robust security solutions to protect critical systems. With a strong foundation in both programming and cybersecurity, I leverage the power of artificial intelligence to enhance security measures and develop cutting-edge solutions that address the evolving threat landscape..
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maximilian dedicated C/C++ Developer with a strong focus on leveraging cutting-edge artificial intelligence solutions to solve complex real-world problems. With expertise in low-level programming, algorithm optimization, and system architecture, I thrive on building efficient, high-performance applications that push the boundaries of what's possible with AI.
+
+My experience spans developing robust AI models, integrating machine learning algorithms into embedded systems, and optimizing computational workflows for maximum efficiency. I am committed to continuous learning and innovation, always exploring new ways to harness AI technologies to create impactful solutions.
+
 
 </p>
 
