@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  🌟 What I Do
  
-My experience spans integrating machine learning algorithms into embedded systems, and optimizing computational workflows for maximum efficiency. I am committed to continuous learning and innovation, always exploring new ways to harness AI technologies to create impactful solutions.
+My experience spans integrating machine learning algorithms into embedded systems, and optimizing computational workflows for maximum efficiency. I'm committed to continuous learning and innovation, always exploring new ways to harness AI technologies to create impactful solutions.
 
 
 
