@@ -1,6 +1,6 @@
 Maximilian Feldthusen🔭
 
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Maximilian Feldthusen, a freelance security‑coding specialist with a deep focus on low‑level development in C, C++ and assembly. Over the past decade I’ve built and hardened performance‑critical software for finance, aerospace, IoT, and embedded systems. My work lives at the intersection of speed and safety—writing code that runs fast while resisting the toughest attacks.
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Maximilian Feldthusen, a freelance Software Engineer with strong focus on building secure, resilient systems in C, C++ and assembly. Over the past decade I’ve built and hardened performance‑critical software for finance, aerospace, IoT, and embedded systems. My work lives at the intersection of speed and safety—writing code that runs fast while resisting the toughest attacks.
 
 
 </p>
