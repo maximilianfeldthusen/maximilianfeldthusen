@@ -1,7 +1,6 @@
 Maximilian Feldthusen🔭
 
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Maximilian Feldthusen, a freelance Software Engineer with strong focus on building secure, resilient systems in C, C++ and assembly. Over the past decade I’ve built and hardened performance‑critical software for finance, aerospace, IoT, and embedded systems. My work lives at the intersection of speed and safety—writing code that runs fast while resisting the toughest attacks.
-
+Senior Low-Level Dev (C/C++/ASM). I engineer high-performance, secure systems for Finance, Aerospace & IoT. Specializing in embedded firmware, kernel optimization, and security hardening. I deliver resilient, ultra-fast solutions where latency and data integrity are critical. Let's optimize your infrastructure.
 
 </p>
 
