@@ -1,6 +1,6 @@
 Maximilian Feldthusen🔭
 
-Embedded Linux & Low-Level Systems Engineer specializing in C/C++ on ARM and x86, delivering high-performance, stable, and real-time optimized systems.
+Embedded Linux & Systems Engineer building high-performance C/C++ solutions on ARM and x86, with a focus on real-time performance, reliability, and system-level optimization.
 
 </p>
 
