@@ -1,6 +1,6 @@
 Maximilian Feldthusen🔭
 
-Senior Low-Level Dev (C/C++/ASM). I engineer high-performance, secure systems for Finance, Aerospace & IoT. Specializing in embedded firmware, kernel optimization, and security hardening. I deliver resilient, ultra-fast solutions where latency and data integrity are critical.
+Embedded Linux & Low-Level Systems Engineer specializing in C/C++ on ARM and x86, delivering high-performance, stable, and real-time optimized systems.
 
 </p>
 
