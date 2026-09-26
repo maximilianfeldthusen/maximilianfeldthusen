@@ -1,7 +1,10 @@
 Maximilian Feldthusen🔭
 
-Embedded Linux & Systems Engineer building high-performance C/C++ solutions on ARM and x86, with a focus on real-time performance, reliability, and system-level optimization.
+Embedded Software Engineer focused on low-level systems, Embedded Linux, and ARM-based platforms.
 
+I work on the software layers close to the hardware — Linux kernel and device drivers, firmware, hardware interfaces, and system-level C/C++ development. I enjoy debugging complex hardware/software interactions, finding root causes, and building reliable and efficient solutions.
+
+Focus: C · C++ · ARM Assembly · Embedded Linux · Linux Kernel · Device Drivers · Firmware · ARM Architecture · Systems Programming
 </p>
 
   
